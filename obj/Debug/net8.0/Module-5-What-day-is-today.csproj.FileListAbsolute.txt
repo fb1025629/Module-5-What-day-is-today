@@ -1,0 +1,14 @@
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\bin\Debug\net8.0\Module-5-What-day-is-today.exe
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\bin\Debug\net8.0\Module-5-What-day-is-today.deps.json
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\bin\Debug\net8.0\Module-5-What-day-is-today.runtimeconfig.json
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\bin\Debug\net8.0\Module-5-What-day-is-today.dll
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\bin\Debug\net8.0\Module-5-What-day-is-today.pdb
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.AssemblyInfoInputs.cache
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.AssemblyInfo.cs
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.dll
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\refint\Module-5-What-day-is-today.dll
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.pdb
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\Module-5-What-day-is-today.genruntimeconfig.cache
+C:\Users\finnb\OneDrive\Documents\GitHub\Module-5-What-day-is-today\obj\Debug\net8.0\ref\Module-5-What-day-is-today.dll

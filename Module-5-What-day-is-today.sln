@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module-5-What-day-is-today", "Module-5-What-day-is-today.csproj", "{8E4EB397-E50E-F1DD-12E0-77BD9E3CDAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4EB397-E50E-F1DD-12E0-77BD9E3CDAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4EB397-E50E-F1DD-12E0-77BD9E3CDAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4EB397-E50E-F1DD-12E0-77BD9E3CDAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4EB397-E50E-F1DD-12E0-77BD9E3CDAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {772E3A92-7CEA-48A1-A78E-246AB6BED1D2}
+	EndGlobalSection
+EndGlobal
