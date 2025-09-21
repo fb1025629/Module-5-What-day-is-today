@@ -1,0 +1,45 @@
+pseudocode
+Console.WriteLine("choose day");
+Console.WriteLine("1) sunday");
+Console.WriteLine("2) monday");
+Console.WriteLine("3) tuesday");
+Console.WriteLine("4) wednsday");
+Console.WriteLine("5) thursday");
+Console.WriteLine("6) friday");
+Console.WriteLine("7) saturday");
+Console.WriteLine();
+Console.WriteLine(">>");
+string choice = Console.ReadLine();
+Console.WriteLine();
+string greeting;
+switch (choice)
+{
+case "sunday":
+        greeting = $"It's the weekend!";
+        Console.WriteLine("It's the weekend!");
+break;
+case "monday":
+        greeting = $"Aack! I hate Mondays";
+ Console.WriteLine("Aack! I hate Mondays");
+break;
+case "tuesday":
+        greeting = $"It's Tuesday!";
+ Console.WriteLine("It's Tuesday!");
+break;
+case "wednsday":
+        greeting = $"Hump Daaaay!";
+         Console.WriteLine("Hump Daaaay!");
+break;
+case "thursday":
+        greeting = $"It's Thursday!";
+         Console.WriteLine("It's Thursday!");
+break;
+case "friday":
+        greeting = $"TGIF!";
+        Console.WriteLine("TGIF!");
+break;
+case "saturday":
+        greeting = $"It's the weekend!";
+        Console.WriteLine("It's the weekend!");
+break;
+}
